@@ -1,0 +1,17 @@
+{
+  "elements": [
+    {
+      "type": 'grid',
+      "children": [
+        {
+           "type": "component",
+           "vType": "charts/worldstats/information-technology/access-tointernet.json"
+        },
+        {
+           "type": "component",
+           "vType": "PlainText"
+        }
+      ]
+   }
+  ]
+}
