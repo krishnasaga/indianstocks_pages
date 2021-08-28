@@ -1,17 +1,36 @@
-{
-  "elements": [
-    {
-      "type": "grid",
-      "children": [
-        {
-           "type": "component",
-           "vType": "charts/worldstats/information-technology/access-tointernet.json"
+[{
+          props: {
+            columns: [1,2]
+          },
+          children: [
+            {
+              props: {
+                name: 'electricity/produced-by-companies-in-india'
+              }
+            },{
+              props: {
+                name: 'electricity/india-electricity-consumption-over-time'
+              }
+            }
+          ]
         },
-        {
-           "type": "component",
-           "vType": "image"
-        }
-      ]
-   }
-  ]
-}
+          {
+            props: {},
+            children: [
+              {
+                props: {
+                  name: 'electricity/produced-by-companies-in-india'
+                }
+              }
+            ]
+          },
+          {
+            props: {},
+            children: [
+              {
+                props: {
+                  name: 'electricity/produced-by-companies-in-india'
+                }
+              }
+            ]
+          }]
