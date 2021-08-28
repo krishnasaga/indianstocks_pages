@@ -1,39 +1,42 @@
-{ 
-
-grids: [{
-          props: {
-            columns: [1,2]
-          },
-          children: [
-            {
-              props: {
-                name: 'electricity/produced-by-companies-in-india'
-              }
-            },{
-              props: {
-                name: 'electricity/india-electricity-consumption-over-time'
-              }
-            }
-          ]
-        },
-          {
-            props: {},
-            children: [
-              {
-                props: {
-                  name: 'electricity/produced-by-companies-in-india'
-                }
-              }
-            ]
-          },
-          {
-            props: {},
-            children: [
-              {
-                props: {
-                  name: 'electricity/produced-by-companies-in-india'
-                }
-              }
-            ]
-          }]
-}
+[
+  {
+    "props":{
+      "columns":[
+        1,
+        2
+      ]
+    },
+    "children":[
+      {
+        "props":{
+          "name":"electricity/produced-by-companies-in-india"
+        }
+      },
+      {
+        "props":{
+          "name":"electricity/india-electricity-consumption-over-time"
+        }
+      }
+    ]
+  },
+  {
+    "props":{},
+    "children":[
+      {
+        "props":{
+          "name":"electricity/produced-by-companies-in-india"
+        }
+      }
+    ]
+  },
+  {
+    "props":{},
+    "children":[
+      {
+        "props":{
+          "name":"electricity/produced-by-companies-in-india"
+        }
+      }
+    ]
+  }
+]
