@@ -9,13 +9,13 @@
     "children":[
       {
         "props":{
-          "title": "Total Installand Capacity"
-          "name":"electricity/produced-by-companies-in-india"
+          "title": "Total Installand Capacity",
+          "name": "electricity/produced-by-companies-in-india"
         }
       },
       {
         "props":{
-          "title": "Renewable Energy Installed Capacity"
+          "title": "Renewable Energy Installed Capacity",
           "name":"electricity/renewables-produced-by-companies-in-india"
         }
       }
