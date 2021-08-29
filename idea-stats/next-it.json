@@ -4,7 +4,7 @@
     "children":[
       {
         "props":{
-          "name":"india-electricity-consumption-over-time"
+          "name":"electricity/india-electricity-consumption-over-time"
         }
       }
     ]
