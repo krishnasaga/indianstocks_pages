@@ -1,5 +1,15 @@
 { "grids": [
   {
+    "props":{},
+    "children":[
+      {
+        "props":{
+          "name":"india-electricity-consumption-over-time"
+        }
+      }
+    ]
+  },
+  {
     "props":{
       "columns":[
         1,
@@ -17,16 +27,6 @@
         "props":{
           "title": "Renewable Energy Installed Capacity",
           "name":"electricity/renewables-produced-by-companies-in-india"
-        }
-      }
-    ]
-  },
-  {
-    "props":{},
-    "children":[
-      {
-        "props":{
-          "name":"electricity/produced-by-companies-in-india"
         }
       }
     ]
