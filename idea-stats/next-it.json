@@ -4,6 +4,7 @@
     "children":[
       {
         "props":{
+          "title": "Generation of Electricity",
           "name":"electricity/india-electricity-consumption-over-time"
         }
       }
