@@ -21,7 +21,7 @@
     "children":[
       {
         "props":{
-          "type": "TimeSeries",
+          "type": "HorizontalCategorical",
           "title": "Total Installand Capacity",
           "name": "electricity/produced-by-companies-in-india"
         }
