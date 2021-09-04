@@ -4,6 +4,7 @@
     "children":[
       {
         "props":{
+          "type": "TimeSeries",
           "title": "Generation of Electricity",
           "name":"electricity/india-electricity-consumption-over-time"
         }
@@ -20,12 +21,14 @@
     "children":[
       {
         "props":{
+          "type": "TimeSeries",
           "title": "Total Installand Capacity",
           "name": "electricity/produced-by-companies-in-india"
         }
       },
       {
         "props":{
+          "type": "TimeSeries",
           "title": "Renewable Energy Installed Capacity",
           "name":"electricity/renewables-produced-by-companies-in-india"
         }
@@ -37,6 +40,7 @@
     "children":[
       {
         "props":{
+          "type": "TimeSeries",
           "name":"electricity/produced-by-companies-in-india"
         }
       }
