@@ -1,0 +1,48 @@
+{ "grids": [
+  {
+    "props":{},
+    "children":[
+      {
+        "props":{
+          "type": "TimeSeries",
+          "title": "Generation of Electricity",
+          "name":"electricity/india-electricity-consumption-over-time"
+        }
+      }
+    ]
+  },
+  {
+    "props":{
+      "columns":[
+        1,
+        2
+      ]
+    },
+    "children":[
+      {
+        "props":{
+          "title": "Total Installand Capacity",
+          "name": "electricity/produced-by-companies-in-india"
+        }
+      },
+      {
+        "props":{
+          "title": "Renewable Energy Installed Capacity",
+          "name":"electricity/renewables-produced-by-companies-in-india"
+        }
+      }
+    ]
+  },
+  {
+    "props":{},
+    "children":[
+      {
+        "props":{
+          "type": "TimeSeries",
+          "name":"electricity/produced-by-companies-in-india"
+        }
+      }
+    ]
+  }
+]
+}
