@@ -44,13 +44,13 @@
       {
         "props":{
           "title": "",
-          "name": "electricity/produced-by-companies-in-india"
+          "name": "electricity/summary-renewable-energy-sources"
         }
       },
       {
         "props":{
           "title": "",
-          "name":"electricity/renewables-produced-by-companies-in-india"
+          "name":"electricity/summary-renewable-energy-sources"
         }
       }
     ]
@@ -61,7 +61,7 @@
       {
         "props":{
           "type": "TimeSeries",
-          "name":"electricity/produced-by-companies-in-india"
+          "name":"electricity/summary-renewable-energy-sources"
         }
       }
     ]
