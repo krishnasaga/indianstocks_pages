@@ -45,17 +45,6 @@
         }
       }
     ]
-  },
-  {
-    "props":{},
-    "children":[
-      {
-        "props":{
-          "type": "TimeSeries",
-          "name":"electricity/summary-renewable-energy-sources"
-        }
-      }
-    ]
   }
 ]
 }
