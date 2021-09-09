@@ -33,6 +33,28 @@
       }
     ]
   },
+    {
+    "props":{
+      "columns":[
+        1,
+        2
+      ]
+    },
+    "children":[
+      {
+        "props":{
+          "title": "",
+          "name": "electricity/produced-by-companies-in-india"
+        }
+      },
+      {
+        "props":{
+          "title": "",
+          "name":"electricity/renewables-produced-by-companies-in-india"
+        }
+      }
+    ]
+  },
   {
     "props":{},
     "children":[
