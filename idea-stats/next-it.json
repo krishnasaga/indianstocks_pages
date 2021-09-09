@@ -40,7 +40,7 @@
     "children":[
       {
         "props":{
-          "title": "",
+          "title": "Summary of renewable energy sources capacity",
           "name": "electricity/summary-renewable-energy-sources"
         }
       }
