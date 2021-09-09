@@ -35,22 +35,13 @@
   },
     {
     "props":{
-      "columns":[
-        1,
-        2
-      ]
+      "columns": "auto"
     },
     "children":[
       {
         "props":{
           "title": "",
           "name": "electricity/summary-renewable-energy-sources"
-        }
-      },
-      {
-        "props":{
-          "title": "",
-          "name":"electricity/summary-renewable-energy-sources"
         }
       }
     ]
