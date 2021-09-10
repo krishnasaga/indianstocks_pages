@@ -13,19 +13,6 @@
   },
   {
     "props":{
-      "columns": [1]
-    },
-    "children":[
-      {
-        "props":{
-          "title": "Summary of renewable energy sources capacity",
-          "name": "electricity/summary-renewable-energy-sources"
-        }
-      }
-    ]
-  },
-  {
-    "props":{
       "columns":[
         1,
         2
