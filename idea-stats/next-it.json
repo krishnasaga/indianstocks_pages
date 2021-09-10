@@ -13,7 +13,7 @@
 			"props": {},
 			"children": [{
 				"props": {
-					"type": "NumberStats",
+					"type": "NumberStat",
 					"title": "Summary of installed capacity sources",
 					"name": "electricity/summary-renewable-energy-sources"
 				}
