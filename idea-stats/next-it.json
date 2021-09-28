@@ -29,7 +29,7 @@
 			"children": [{
 					"props": {
 						"title": "Total Installand Capacity",
-						"name": "charts/electric_utlity_companies"
+						"name": "charts/electric_renewable-electricity-consumption"
 					}
 				},
 				{
