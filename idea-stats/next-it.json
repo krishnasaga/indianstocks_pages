@@ -29,7 +29,7 @@
 			"children": [{
 					"props": {
 						"title": "Total Installand Capacity",
-						"name": "electricity/produced-by-companies-in-india"
+						"name": "charts/electric_utlity_companies"
 					}
 				},
 				{
