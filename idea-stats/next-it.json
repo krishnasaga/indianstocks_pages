@@ -29,13 +29,13 @@
 			"children": [{
 					"props": {
 						"title": "Total Installand Capacity",
-						"name": "charts/electric_renewable-electricity-consumption"
+						"name": "charts/electric_utlity_companies"
 					}
 				},
 				{
 					"props": {
 						"title": "Renewable Energy Installed Capacity",
-						"name": "charts/electric_utlity_companies"
+						"name": "charts/electric_renewable-electricity-consumption"
 					}
 				}
 			]
