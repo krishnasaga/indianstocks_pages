@@ -15,7 +15,7 @@
 				"props": {
 					"type": "NumberStat",
 					"title": "Summary of installed capacity sources",
-					"name": "electricity/summary-renewable-energy-sources"
+					"name": "charts/electric_india-summary-capacity-sources"
 				}
 			}]
 		},
