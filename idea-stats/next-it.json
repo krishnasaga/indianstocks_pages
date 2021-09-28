@@ -5,7 +5,7 @@
 				"props": {
 					"type": "TimeSeries",
 					"title": "Generation of Electricity",
-					"name": "charts/electric_produced-by-companies-in-india"
+					"name": "charts/electric_renewable-electricity-consumption"
 				}
 			}]
 		},
