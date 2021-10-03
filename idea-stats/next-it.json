@@ -5,7 +5,7 @@
 				"props": {
 					"type": "TimeSeries",
 					"title": "Generation of Electricity",
-					"name": "charts/india-electricity-consumption-over-time"
+					"name": "charts/electric_india-electricity-consumption-over-time"
 				}
 			}]
 		},
