@@ -4,7 +4,7 @@
 			"children": [{
 				"props": {
 					"type": "TimeSeries",
-					"title": "Generation of Electricity in Terawat Hours",
+					"title": "Generation of Electricity in India in Terawat Hours",
 					"name": "charts/electric_india-electricity-consumption-over-time"
 				}
 			}]
