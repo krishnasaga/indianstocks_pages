@@ -1,0 +1,23 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnasaga/indianstocks_pages.git"
+  },
+  "author": "Krishna Sagar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnasaga/indianstocks_pages/issues"
+  },
+  "homepage": "https://github.com/krishnasaga/indianstocks_pages#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
